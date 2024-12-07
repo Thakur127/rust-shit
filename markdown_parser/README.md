@@ -18,8 +18,8 @@ A simple(shitty) Markdown parser written in Rust. This is a basic project create
    First, clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/markdown-parser.git
-   cd markdown-parser
+   git clone https://github.com/Thakur127/rust-shit.git
+   cd rust-shit/markdown_parser
    ```
 
 2. **Run the project**:
